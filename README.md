@@ -1,12 +1,14 @@
 # INDICE-DE-LA-HETEROGENEIDAD-DE-LOS-USOS-DEL-SUELO
 En este repositorio se incluyen los códigos para el cálculo del índice de heterogeniedad de los usos del suelo para los municpios de Don Benito - Villanueva de la Serena, Badajoz.
 
-# -*- coding: utf-8 -*-
-# File: CÓDIGO PYTHON_TFM_DIEGO_MURILLO_VILLAR.py
-# Author: Diego Murillo Villar
-# Date: 2 de julio de 2024
-# Description: Códigos sobre el cálculo de índice de heterogeneidad
-# en los municipios de Don Benito - Villanueva de la Serena.
+-*- coding: utf-8 -*-
+
+File: CÓDIGO PYTHON_TFM_DIEGO_MURILLO_VILLAR.py
+Author: Diego Murillo Villar
+
+Date: 2 de julio de 2024
+
+Description: Códigos sobre el cálculo de índice de heterogeneidad en los municipios de Don Benito - Villanueva de la Serena.
 
 # Importación de librerias
 
